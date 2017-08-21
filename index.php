@@ -1,4 +1,4 @@
 <?php
 	echo "my test";
-        echo "chirag test"
+        echo "Nehal test";
 ?>
